@@ -7,3 +7,10 @@ Respuestas de Primeros Pasos en Ruby
     commit 23fa00be528476e975dc23424f537935f1d4ecc5
     commit be18fe07a980c2b8ef424e063bc64ad8859479d0	<-(HEAD,ghpc04/master,master,doc)
 2.
+2.
+
+    commit 0b1e70a07e3c97a2fe64b168cf454f74accfe4d3
+    commit 23fa00be528476e975dc23424f537935f1d4ecc5
+    commit be18fe07a980c2b8ef424e063bc64ad8859479d0	<-(ghpc04)
+     |-commit df38f0c					<-(HEAD,doc)
+     |-commit 76629d2					<-(master)
