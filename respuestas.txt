@@ -28,3 +28,17 @@ Respuestas de Primeros Pasos en Ruby
     RVM se emplea para, en el caso de trabajar en varios proyectos al mismo tiempo, cada uno de los cuales
     emplea un interprete diferente, en vez de desinstalar e instalar constantemente diferentes versiones,
     podemos hacer uso de RVM para tener diferentes versiones a nuestra disposicion
+    
+5.
+(irb)
+Hello World
+=> nil
+
+(ruby)
+Hola Mundo
+
+Las diferencias son el puntero a nil que se emplea para determinar cuando finaliza la interpretacion
+
+
+
+
