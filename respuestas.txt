@@ -22,3 +22,9 @@ Respuestas de Primeros Pasos en Ruby
     commit df38f0c					
     commit 76629d2					
     commit e9f71a1					<-(HEAD,doc,master)
+    
+4.
+
+    RVM se emplea para, en el caso de trabajar en varios proyectos al mismo tiempo, cada uno de los cuales
+    emplea un interprete diferente, en vez de desinstalar e instalar constantemente diferentes versiones,
+    podemos hacer uso de RVM para tener diferentes versiones a nuestra disposicion
