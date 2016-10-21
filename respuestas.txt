@@ -39,6 +39,30 @@ Hola Mundo
 
 Las diferencias son el puntero a nil que se emplea para determinar cuando finaliza la interpretacion
 
+6.
 
+    [1] pry(main)> puts x
+    10
+    => nil
+    [2] pry(main)> def hello
+    [2] pry(main)*   puts "Hello world"
+    [2] pry(main)* end  
+    => nil
+    [3] pry(main)> hello
+    Hello world
+    => nil
+    [4] pry(main)> byebye
+    Bye Bye world!!
+    => nil
+    [5] pry(main)> x = "changed"
+    => "changed"
+    [6] pry(main)> exit
+    program resumes here. Value of x is: changed.
 
+7.
+
+    Con el interprete PRY podemos realizar modificaciones y pruebas a nuestro programa con el fin de
+    demostrar su usabilidad.
+    Mientras que con el interprete interactivo, vamos ejecutando instrucciones sin tener una base sobre
+    la que trabajar.
 
